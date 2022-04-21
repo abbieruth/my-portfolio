@@ -1,6 +1,7 @@
 <h1>My Portfolio</h1>
 <p>If you want to know more about me or my work or even want to hire me, then check out my webiste <a href="https://abigail-noel.netlify.app/">here</a>!</p>
 
+![Screenshot 2022-04-21 093408](https://user-images.githubusercontent.com/72089733/164471262-e668fd5c-6188-45a1-8154-b904976a3d09.png)
 
 
 <h2>How It's Made</h2>
@@ -8,9 +9,8 @@
  (aj@lkn.io | @ajlkn), 
 HTML, CSS (JavaScript and Sass came with the template; I did not code those.)</p>
 
-
-
 <p>This is just a quick portfolio, something to tell you a little bit about me and showcase my work.</p>
+
 
 
 PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
