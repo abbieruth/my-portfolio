@@ -1984,6 +1984,24 @@ input, select, textarea {
 				font-size: 6em;
 			}
 
+		.icon.featured.html {
+			height: 6em;
+			width: auto;
+			margin: 0 6em;
+		}
+
+		.icon.solid.featured.css {
+			height: 4em;
+			width: auto;
+			margin: 0 7em 2em 7em;
+		}
+
+		.icon.featured.js {
+			height: 4em;
+			width: auto;
+			margin: 0 7em 2em 7em;
+		}
+
 /* Wrappers */
 
 	.wrapper {
